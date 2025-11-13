@@ -15,13 +15,11 @@ This is the first prototype from Unity's Junior Programmer Pathway. The goal of 
 - How to use **Transform** for position, rotation, and scale.
 - Basics of **C# scripting** in Unity:
   - Using `Update()` for frame-based logic.
-  - Using `FixedUpdate()` for physics-based logic.
 - How to apply **Rigidbody** for physics simulation.
-- How to detect collisions using `OnCollisionEnter()` and `OnTriggerEnter()`.
 - How to set up a simple camera follow script.
 
 ## Challenges
-- Understanding when to use `Update()` vs `FixedUpdate()`.
+- Understanding when to use `Update()` vs `LateUpdate()`.
 - Getting the player movement smooth while using physics.
 - Making sure the camera follows the player without jitter.
 
