@@ -11,3 +11,6 @@ This repository contains Unity tutorials and projects I’ve completed as part o
 
 
 Each folder contains the Unity project files and a README explaining what I learned.
+
+## Playing the Projects
+If you would like to test the projects or have me go over them, please reach out!
